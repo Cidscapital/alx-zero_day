@@ -1,2 +1,2 @@
-My first readme /n
+My first readme 
 Updated it through web browser
